@@ -1,2 +1,3 @@
-# For the moment I am developing my own graphics engine in c++ using OpenGL
-
+“Give a man a program, frustrate him for a day.
+Teach a man to program, frustrate him for a lifetime.”
+― Muhammad Waseem
